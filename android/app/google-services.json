@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "64979952882",
+    "project_id": "boppostream",
+    "storage_bucket": "boppostream.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64979952882:android:dfefe5b56ee9747958dc6b",
+        "android_client_info": {
+          "package_name": "com.boppo_stream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64979952882-2asc3hfcm1dojel5hdskmvm6t8jk373c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4wTTDk_zJtHjb-kHI7s1SPDV-JQf2Nm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64979952882-2asc3hfcm1dojel5hdskmvm6t8jk373c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
